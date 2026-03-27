@@ -75,10 +75,10 @@ Busco constantemente aprimorar meus conhecimentos, praticando com projetos e exp
 
 ### 🤖 Estatísticas
 
-![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielHenriLima&theme=tokyonight)
+![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielHenriLima&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielHenriLima&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielHenriLima&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielHenriLima&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielHenriLima&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 </p>
