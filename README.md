@@ -1,16 +1,84 @@
-## Hi there 👋
+# 🤖 Gabriel Henrique 
 
-<!--
-**GabrielHenriLima/GabrielHenriLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor em Formação | Técnico em TI `**
 
-Here are some ideas to get you started:
+Olá! Meu nome é Gabriel Henrique, tenho 18 anos e sou natural de São Paulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou cursando o último ano do Ensino Médio integrado ao curso técnico em Informática na Etec Leandro Franceschini. Tenho grande interesse pela área de tecnologia, especialmente em programação e desenvolvimento de software.
+
+Busco constantemente aprimorar meus conhecimentos, praticando com projetos e explorando novas ferramentas e linguagens. Meu objetivo é evoluir como desenvolvedor, adquirindo experiência prática e contribuindo para projetos que gerem soluções úteis e eficientes.
+
+---
+### 🤖 Liguagens e Tecnologias 
+
+ <img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+ <img 
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+        
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+<img 
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
+
+<img 
+    align="left"
+    alt="Inkscape"
+    title="Inkscape"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" />
+      
+   
+<img 
+    align="left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+
+ <img 
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
+<br/>
+<br/>
+
+### 🤖 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-murex-nine-50.vercel.app/api?username=GabrielHenriLima&show_icons=true&theme=tokyonight&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-murex-nine-50.vercel.app/api/top-langs/?username=GabrielHenriLima&layout=compact&theme=tokyonight"/>
+</p>
