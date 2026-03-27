@@ -75,10 +75,10 @@ Busco constantemente aprimorar meus conhecimentos, praticando com projetos e exp
 
 ### 🤖 Estatísticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-murex-nine-50.vercel.app/api?username=GabrielHenriLima&show_icons=true&theme=tokyonight&count_private=true"/>
-</p>
+![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielHenriLima&theme=tokyonight)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-murex-nine-50.vercel.app/api/top-langs/?username=GabrielHenriLima&layout=compact&theme=tokyonight"/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielHenriLima&theme=tokyonight"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielHenriLima&theme=tokyonight"/>
 </p>
